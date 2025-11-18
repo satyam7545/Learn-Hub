@@ -67,11 +67,11 @@ const Footer = () => {
             <ul className="footer-contact">
               <li>
                 <MapPin size={18} />
-                <span>123 Education Street<br />Learning City, LC 12345</span>
+                <span>ACADEMIC HALL<br />Noida International University</span>
               </li>
               <li>
                 <Phone size={18} />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 (555) 123-4567</span>
               </li>
               <li>
                 <Mail size={18} />
